@@ -1,0 +1,1 @@
+ENV: source /home/taaqir/virtualenv/taaq/3.11/bin/activate && cd /home/taaqir/taaq
